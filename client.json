@@ -1,0 +1,24 @@
+[{
+    "name": "Alina",
+    "login": "Alina123",
+    "password": "password 1",
+    "ip": "127.1.1.1",
+    "balance": 31,
+    "message": "Hello, I am Alina"
+},
+{
+    "name": "Arseniy",
+    "login": "Arsenius_genius",
+    "password": "password 2",
+    "ip": "127.1.1.2",
+    "balance": -12,
+    "message": ["Hello, I am Ars", "I am web-dev"]
+},
+{
+    "name": "Alyona",
+    "login": "Alyona_Alyona",
+    "password": "password 3",
+    "ip": "127.1.1.3",
+    "balance": 20,
+    "message": "Hi, I am Alyona"
+}]
